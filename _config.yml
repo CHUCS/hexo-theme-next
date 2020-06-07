@@ -201,8 +201,9 @@ links_settings:
   layout: block
 
 links:
-  #Title: https://chucs.github.io/
-
+  Daviswww: https://github.com/Daviswww
+  About: https://chucs.github.io/site/
+  Games: https://chucs.github.io/game/
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
 toc:
